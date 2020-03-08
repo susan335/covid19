@@ -36,6 +36,7 @@
           :url="
             'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068'
           "
+          :default-data-kind="'cumulative'"
         />
       </v-col>
       <v-col cols="12" md="6" class="DataCard">
